@@ -1,4 +1,4 @@
-# Stash
+# Stash [![Stash-cache-build](https://github.com/ashwani1218/stash-cache/actions/workflows/main.yml/badge.svg)](https://github.com/ashwani1218/stash-cache/actions/workflows/main.yml)
 
 ![Stash Banner](./assets/Stash-logo.png)
 
