@@ -1,4 +1,4 @@
-name: Stash-cache-build
+name: Stash-cache
 on:
   push:
     branches: [master]
