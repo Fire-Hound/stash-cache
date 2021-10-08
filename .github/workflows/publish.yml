@@ -22,12 +22,6 @@ jobs:
       - name: Run Tests
         run: pytest tests/test*
 
-      - name: Install tox
-        run: pip3 intsall tox
-
-      - name: Run tox tests
-        run: tox
-
       - name: Install pypa/build
         run: >-
           python -m
