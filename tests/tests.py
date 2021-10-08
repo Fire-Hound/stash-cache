@@ -1,5 +1,5 @@
-from stash import cache, Signature
-import stash
+from src import cache, Signature
+import src as stash
 
 
 @cache
@@ -25,6 +25,7 @@ def test_save_and_load_stash():
 @cache
 def createUser(name, age, hobbies="being a couch"):
     return {"name": name, "age": age}
+
 
 def test_load_dict():
     args = ("Vikram", 23)
