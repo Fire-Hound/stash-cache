@@ -2,7 +2,7 @@ from pathlib import Path
 import pickle
 import inspect
 from hashlib import sha256
-from stash import settings
+from src import settings
 
 
 def hash(data):
