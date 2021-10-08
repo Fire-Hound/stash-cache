@@ -2,8 +2,8 @@ from functools import wraps
 from pathlib import Path
 from collections import namedtuple
 import pickle
-from stash.utils import get_file_path, get_stash
-from stash.types import Signature
+from src.utils import get_file_path, get_stash
+from src.types import Signature
 
 
 def cache(func):
