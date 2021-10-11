@@ -38,7 +38,7 @@ jobs:
           --outdir dist/
 
       - name: Publishto Test PyPI
-        uses: pypa/gh-action-pypi-publish@publish
+        uses: pypa/gh-action-pypi-publish@publish/v1
         with:
           password: ${{ secrets.test_pypi_password }}
           repository_url: https://test.pypi.org/legacy/
