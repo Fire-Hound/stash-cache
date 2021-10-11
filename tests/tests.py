@@ -1,5 +1,5 @@
-from src import cache, Signature
-import src as stash
+from stash import cache, Signature
+import stash
 
 
 @cache
