@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: stash-cache
+Version: 0.0.1
+Summary: Stash helps you to safely persist your function cache.
+Home-page: UNKNOWN
+Author: Vikram Cothur
+Author-email: vcothur7@gmail.com
+License: UNKNOWN
+Keywords: python,cache,persistent,stash,function,stash cache
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Provides-Extra: dev
+License-File: LICENSE
+
+Stash gives you your functions the superpower of remembrance. Stash speeds up your functions by stashing their output and only running them when the argument or the body of the function changes.
+
