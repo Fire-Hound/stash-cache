@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: stash-cache
-Version: 0.0.1
+Version: 0.0.2
 Summary: Stash helps you to safely persist your function cache.
 Home-page: UNKNOWN
 Author: Vikram Cothur
