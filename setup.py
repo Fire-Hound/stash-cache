@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 DESCRIPTION = 'Stash helps you to safely persist your function cache.'
 LONG_DESCRIPTION = 'Stash gives you your functions the superpower of remembrance. Stash speeds up your functions by stashing their output and only running them when the argument or the body of the function changes.'
 
